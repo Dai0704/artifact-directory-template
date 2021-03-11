@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
+    "this-repository": "https://github.com/Dai0704/artifact-directory-template",
     "project-repository": "https://github.com/Dai0704/DSC180B_A07/tree/Final",
     "dockerhub-repository": "dai0704/dsc180b_a07:latest",
     "project-website-url": "https://larryzly.github.io/CardiovascularClassifier/",
